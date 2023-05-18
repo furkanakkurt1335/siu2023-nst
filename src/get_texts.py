@@ -19,23 +19,32 @@ api = tweepy.API(auth)
 
 tweet_d = {}
 for file in data_files:
+    print('Processing', file)
     with open(os.path.join(data_path, file), encoding='utf-8') as f:
         data = json.load(f)
+    data_len = len(data)
     for i, el in enumerate(data):
+        if 'text' in el.keys() and el['text'] != '':
+            tweet_d[el['TweetID']] = el['text']
+            continue
         id_t = el['TweetID']
-        print(id_t)
         try:
             if id_t in tweet_d.keys():
                 text = tweet_d[id_t]
                 data[i]['text'] = text
             else:
-                tweet = api.get_status(id_t)
-                text = tweet.text
+                status = api.get_status(id_t, tweet_mode='extended')
+                text = status.full_text
                 tweet_d[id_t] = text
                 data[i]['text'] = text
-            print(text)
-            print()
         except:
-            pass
+            data[i]['text'] = ''
+        if i % 100 == 0:
+            print('Remaining', data_len - i)
+            with open(os.path.join(data_path, file), 'w', encoding='utf-8') as f:
+                json.dump(data, f, indent=4, ensure_ascii=False)
+            print('Saved', file)
     with open(os.path.join(data_path, file), 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
+    print('Saved', file)
+    print('Done', file)
