@@ -19,5 +19,5 @@ for file in data_files:
                 if key not in data_d[tweet_id].keys():
                     data_d[tweet_id][key] = el[key]
 
-with open(os.path.join(THIS_DIR, 'data.json'), 'w', encoding='utf-8') as f:
+with open(os.path.join(THIS_DIR, 'aggregated-data.json'), 'w', encoding='utf-8') as f:
     json.dump(data_d, f, indent=4, ensure_ascii=False)
