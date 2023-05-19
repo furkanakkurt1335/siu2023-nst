@@ -7,8 +7,8 @@ clean_path = os.path.join(data_path, 'clean')
 if not os.path.exists(clean_path):
     os.mkdir(clean_path)
 
-url_pattern = '/^https?:\/\/(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b(?:[-a-zA-Z0-9()@:%_\+.~#?&\/=]*)$/' # taken from https://uibakery.io/regex-library/url
-twitter_user_pattern = '/^@[a-zA-Z0-9_]{1,15}$/'
+url_pattern = 'https?:\/\/(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b(?:[-a-zA-Z0-9()@:%_\+.~#?&\/=]*)' # taken from https://uibakery.io/regex-library/url
+twitter_user_pattern = '@[a-zA-Z0-9_]{1,15}'
 for file in data_files:
     with open(os.path.join(data_path, file), encoding='utf-8') as f:
         data = json.load(f)
@@ -26,7 +26,7 @@ for file in data_files:
             text = re.sub(twitter_user_pattern, '', text) # remove twitter users
             while '  ' in text:
                 text = text.replace('  ', ' ')
-            el['text'] = text
+            el['text'] = text.strip()
             new_data.append(el)
             continue
     with open(os.path.join(clean_path, file), 'w', encoding='utf-8') as f:
