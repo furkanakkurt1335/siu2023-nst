@@ -1,23 +1,22 @@
 import os, json
 
 THIS_DIR = os.path.dirname(os.path.abspath(__file__))
-data_path = os.path.join(THIS_DIR, '..', 'data', 'clean')
-data_files = [i for i in os.listdir(data_path) if i.endswith('.json')]
+data_path = os.path.join(THIS_DIR, '..', 'data')
+aggregated_data_path = os.path.join(data_path, 'aggregated-data.json')
+with open(aggregated_data_path, encoding='utf-8') as f:
+    agg_d = json.load(f)
 
-for file in data_files:
-    counter_d = {}
-    with open(os.path.join(data_path, file), encoding='utf-8') as f:
-        data = json.load(f)
-    keys = list(data[0].keys())
-    keys.remove('TweetID')
-    keys.remove('text')
-    count_key = keys[0]
-    for el in data:
-        val = el[count_key]
-        if val not in counter_d.keys():
-            counter_d[val] = 0
-        counter_d[val] += 1
-    print(file)
-    print(count_key)
-    print(counter_d)
-    print()
+id_l = list(agg_d.keys())
+# Number of tweets: 4495
+key_count_d = {}
+for id_t in id_l:
+    el = agg_d[id_t]
+    key_l = list(el.keys())
+    key_l.remove('text')
+    len_key_l = len(key_l)
+    if len_key_l not in key_count_d.keys():
+        key_count_d[len_key_l] = 0
+    key_count_d[len_key_l] += 1
+
+# Number of tweets with 1 key: 1728
+# Number of tweets with 2 keys: 2767
