@@ -9,7 +9,7 @@ args = parser.parse_args()
 
 THIS_DIR = os.path.dirname(os.path.abspath(__file__))
 data_path = os.path.join(THIS_DIR, '..', 'data')
-filename = 'aggregated-data-clean-list-change.json'
+filename = 'agg-data-clean-asciified.json'
 path = os.path.join(data_path, filename)
 with open(path, encoding='utf-8') as f:
     data = json.load(f)
@@ -18,7 +18,6 @@ feature = args.feature
 out_d = {'feature': feature}
 
 corpus = [el['text'] for el in data if feature in el.keys()]
-# print('Corpus length: {}'.format(len(corpus)))
 
 vectorizer = TfidfVectorizer(analyzer='char', ngram_range=(3, 3), max_features=1000, lowercase=True)
 # existence       0.8014  0.7644
@@ -26,11 +25,8 @@ vectorizer = TfidfVectorizer(analyzer='char', ngram_range=(3, 3), max_features=1
 # strength        0.7607  0.7135
 
 X = vectorizer.fit_transform(corpus)
-# print('Feature names: {}'.format(vectorizer.get_feature_names_out()))
-# print('Shape: {}'.format(X.shape))
 
 y = [el[feature] for el in data if feature in el.keys()]
-# print('Labels length: {}'.format(len(y)))
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1, random_state=42)
 
