@@ -2,7 +2,7 @@ import os, json
 
 THIS_DIR = os.path.dirname(os.path.abspath(__file__))
 data_path = os.path.join(THIS_DIR, '..', 'data')
-selected = 'clean-asciified'
+selected = 'raw'
 if selected == 'clean':
     path = os.path.join(data_path, 'clean')
 elif selected == 'raw':
@@ -17,14 +17,22 @@ for data_file in data_files:
         data = json.load(f)
     for el in data:
         tweet_id = el['TweetID']
-        del el['TweetID']
         if tweet_id not in data_d.keys():
-            data_d[tweet_id] = el
-        else:
-            key_l = list(el.keys())
-            for key in key_l:
-                if key not in data_d[tweet_id].keys():
-                    data_d[tweet_id][key] = el[key]
+            data_d[tweet_id] = {}
+        if 'HateSpeechExistence' in el.keys():
+            data_d[tweet_id]['existence'] = el['HateSpeechExistence']
+        if 'HateSpeechStrength' in el.keys():
+            data_d[tweet_id]['strength'] = el['HateSpeechStrength']
+        if 'HateSpeechCategory' in el.keys():
+            data_d[tweet_id]['category'] = el['HateSpeechCategory']
+        if 'text' in el.keys():
+            data_d[tweet_id]['text'] = el['text']
 
-with open(os.path.join(data_path, 'aggregated-data-{}.json'.format(selected)), 'w', encoding='utf-8') as f:
-    json.dump(data_d, f, indent=4, ensure_ascii=False)
+data_l = []
+for k, v in data_d.items():
+    new_d = v
+    new_d['id'] = k
+    data_l.append(new_d)
+
+with open(os.path.join(data_path, 'agg-data-{}.json'.format(selected)), 'w', encoding='utf-8') as f:
+    json.dump(data_l, f, indent=4, ensure_ascii=False)

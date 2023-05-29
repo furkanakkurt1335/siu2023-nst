@@ -9,7 +9,7 @@ args = parser.parse_args()
 
 THIS_DIR = os.path.dirname(os.path.abspath(__file__))
 data_path = os.path.join(THIS_DIR, '..', 'data')
-filename = 'aggregated-data-clean-asciified-list-change.json'
+filename = 'aggregated-data-clean-list-change.json'
 path = os.path.join(data_path, filename)
 with open(path, encoding='utf-8') as f:
     data = json.load(f)
@@ -21,9 +21,9 @@ corpus = [el['text'] for el in data if feature in el.keys()]
 # print('Corpus length: {}'.format(len(corpus)))
 
 vectorizer = TfidfVectorizer(analyzer='char', ngram_range=(3, 3), max_features=1000, lowercase=True)
-# {'feature': 'existence', 'train_score': '0.8014', 'test_score': '0.7644'}
-# {'feature': 'category', 'train_score': '0.7368', 'test_score': '0.7066'}
-# {'feature': 'strength', 'train_score': '0.7607', 'test_score': '0.7135'}
+# existence       0.8014  0.7644
+# category        0.7368  0.7066
+# strength        0.7607  0.7135
 
 X = vectorizer.fit_transform(corpus)
 # print('Feature names: {}'.format(vectorizer.get_feature_names_out()))
@@ -38,4 +38,5 @@ clf = LogisticRegression(random_state=0).fit(X_train, y_train)
 out_d['train_score'] = '{:.4f}'.format(clf.score(X_train, y_train))
 out_d['test_score'] = '{:.4f}'.format(clf.score(X_test, y_test))
 # print(clf.predict_proba(X_test[:10])) # regression
-print(out_d)
+
+print('{feature}\t{train_score}\t{test_score}'.format(**out_d))
