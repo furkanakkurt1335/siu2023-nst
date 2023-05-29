@@ -2,13 +2,13 @@ import os, json
 
 THIS_DIR = os.path.dirname(os.path.abspath(__file__))
 data_path = os.path.join(THIS_DIR, '..', 'data')
-raw_path = os.path.join(data_path, 'raw')
-clean_path = os.path.join(data_path, 'clean')
-selected = 'clean'
+selected = 'clean-asciified'
 if selected == 'clean':
-    path = clean_path
+    path = os.path.join(data_path, 'clean')
 elif selected == 'raw':
-    path = raw_path
+    path = os.path.join(data_path, 'raw')
+elif selected == 'clean-asciified':
+    path = os.path.join(data_path, 'clean-asciified')
 data_files = [i for i in os.listdir(path) if i.endswith('.json')]
 
 data_d = {}
