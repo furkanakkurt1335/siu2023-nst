@@ -17,12 +17,13 @@ for file in data_files:
     new_data = []
     for i, el in enumerate(data):
         if 'text' in el.keys() and el['text'] != '':
-            # deasciify text
+            # asciify text
             text = el['text']
-            text = text.replace('ı', 'i').replace('İ', 'I').replace('ö', 'o').replace('Ö', 'O').replace('ü', 'u').replace('Ü', 'U').replace('ş', 's').replace('Ş', 'S').replace('ç', 'c').replace('Ç', 'C').replace('ğ', 'g').replace('Ğ', 'G')
-            text = text.replace('â', 'a').replace('Â', 'A').replace('î', 'i').replace('Î', 'I').replace('û', 'u').replace('Û', 'U')
+            # text = text.replace('ı', 'i').replace('İ', 'I').replace('ö', 'o').replace('Ö', 'O').replace('ü', 'u').replace('Ü', 'U').replace('ş', 's').replace('Ş', 'S').replace('ç', 'c').replace('Ç', 'C').replace('ğ', 'g').replace('Ğ', 'G')
+            # text = text.replace('â', 'a').replace('Â', 'A').replace('î', 'i').replace('Î', 'I').replace('û', 'u').replace('Û', 'U')
             # text = text.replace('!', '.').replace('?', '.').replace(';', '.').replace(':', '.').replace(',', '.').replace('.', ' ')
-            text = text.lower().strip().replace('\n', ' ').replace('\t', ' ').replace('\r', ' ')
+            # text = text.lower()
+            text = text.strip().replace('\n', ' ').replace('\t', ' ').replace('\r', ' ')
             text = re.sub(url_pattern, '', text) # remove urls
             text = re.sub(twitter_user_pattern, '', text) # remove twitter users
             while '  ' in text:
