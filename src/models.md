@@ -6,3 +6,4 @@ Tried:
 - sklearn.naive_bayes.MultinomialNB
 - sklearn.tree.DecisionTreeClassifier
 - sklearn.ensemble.RandomForestClassifier
+- sklearn.svm.SVC
