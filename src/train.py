@@ -63,17 +63,22 @@ if test:
     print('Test data length: {}'.format(len(test_corpus)))
 
 max_features = 3000
-vectorizer1 = TfidfVectorizer(analyzer='char', ngram_range=(3, 3), max_features=max_features)
+vectorizer1 = TfidfVectorizer(analyzer='char', ngram_range=(7, 7), max_features=max_features)
 vectorizer2 = TfidfVectorizer(max_features=max_features)
+vectorizer3 = TfidfVectorizer(analyzer='char', ngram_range=(9, 9), max_features=max_features)
 
 X_train = vectorizer1.fit_transform(corpus)
 X_t = vectorizer2.fit_transform(corpus)
 X_train = np.concatenate((X_train.toarray(), X_t.toarray()), axis=1)
+X_t = vectorizer3.fit_transform(corpus)
+X_train = np.concatenate((X_train, X_t.toarray()), axis=1)
 
 if test:
     X_test = vectorizer1.transform(test_corpus)
     X_test_t = vectorizer2.transform(test_corpus)
     X_test = np.concatenate((X_test.toarray(), X_test_t.toarray()), axis=1)
+    X_test_t = vectorizer3.transform(test_corpus)
+    X_test = np.concatenate((X_test, X_test_t.toarray()), axis=1)
 
 if not test:
     X_train, X_test, y_train, y_test = train_test_split(X_train, y, test_size=0.2, random_state=42)
