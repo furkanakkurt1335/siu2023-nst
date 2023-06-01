@@ -35,9 +35,7 @@ else:
         feature = 'category'
     elif subtask == '2':
         feature = 'existence'
-    elif subtask == '3':
-        feature = 'strength'
-    elif subtask == '4':
+    elif subtask == '3' or subtask == '4':
         feature = 'strength'
 
 print('Training on feature {}'.format(feature))
@@ -47,14 +45,22 @@ if args.type != 'all':
     print('Using data of type {}'.format(args.type))
     corpus = [el['text'] for el in data if el['type'] == args.type and feature in el.keys()]
     y = [el[feature] for el in data if el['type'] == args.type and feature in el.keys()]
-    test_corpus = [el['text'] for el in test_data_l if el['type'] == args.type]
+    if test:
+        test_corpus = [el['text'] for el in test_data_l if el['type'] == args.type]
 else:
     print('Using all data')
     corpus = [el['text'] for el in data if feature in el.keys()]
     y = [el[feature] for el in data if feature in el.keys()]
-    test_corpus = [el['text'] for el in test_data_l]
+    print('Train corpus:', corpus[:5])
+    print('Train labels:', y[:5])
+    if test:
+        test_corpus = [el['text'] for el in test_data_l]
+        print('Test corpus:', test_corpus[:5])
 
-print('Test data length: {}'.format(len(test_corpus)))
+print('Train data length: {}'.format(len(corpus)))
+print('Train labels length: {}'.format(len(y)))
+if test:
+    print('Test data length: {}'.format(len(test_corpus)))
 
 max_features = 3000
 vectorizer1 = TfidfVectorizer(analyzer='char', ngram_range=(3, 3), max_features=max_features)
@@ -94,13 +100,9 @@ else:
         sample_key = 'HateSpeechExistence'
         if feature != 'existence':
             raise ValueError('Feature must be existence for subtask 2')
-    elif subtask == '3':
+    elif subtask == '3' or subtask == '4':
         sample_key = 'HateSpeechStrength'
         if feature != 'strength':
-            raise ValueError('Feature must be strength for subtask 3')
-    elif subtask == '4':
-        sample_key = 'HateSpeechStrength'
-        if feature != 'strength':
-            raise ValueError('Feature must be strength for subtask 4')
+            raise ValueError('Feature must be strength for subtask 3 or 4')
     df = pd.DataFrame({'rowID': [i['row_id'] for i in test_data_l], sample_key: y_pred})
     df.to_csv(os.path.join(data_path, f'subtask{args.subtask}_{feature}_submission.csv'), index=False)
