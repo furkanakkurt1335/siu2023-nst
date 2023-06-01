@@ -1,3 +1,4 @@
-python3 src/train.py --feature existence
-python3 src/train.py --feature category
-python3 src/train.py --feature strength
+python3 src/train.py --subtask 1
+python3 src/train.py --subtask 2
+python3 src/train.py --subtask 3
+python3 src/train.py --subtask 4

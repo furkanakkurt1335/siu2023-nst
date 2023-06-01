@@ -1,13 +1,17 @@
-import tweepy, os, json
+import os, json, argparse
 import pandas as pd
 
-THIS_DIR = os.path.dirname(os.path.abspath(__file__))
-data_path = os.path.join(THIS_DIR, '..', 'data')
-data_files = [i for i in os.listdir(data_path) if i.endswith('.csv')]
+parser = argparse.ArgumentParser()
+parser.add_argument('--dir', type=str, help='Data directory', required=True)
+args = parser.parse_args()
 
-for file in data_files:
+data_path = args.dir
+data_files = [i for i in os.listdir(data_path) if i.endswith('.csv')]
+sep = [',' if 'sample' in i else ';' for i in data_files]
+
+for i, file in enumerate(data_files):
     base_name = file.replace('.csv', '')
-    df = pd.read_csv(os.path.join(data_path, file), sep=';')
+    df = pd.read_csv(os.path.join(data_path, file), sep=sep[i])
     key_l = list(df.keys())
     new_l = []
     for i in range(len(df)):
