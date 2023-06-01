@@ -1,0 +1,4686 @@
+[
+    {
+        "rowID": "0",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "2",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "3",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "4",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "5",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "6",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "7",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "8",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "9",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "10",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "11",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "12",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "13",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "14",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "15",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "16",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "17",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "18",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "19",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "20",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "21",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "22",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "23",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "24",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "25",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "26",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "27",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "28",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "29",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "30",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "31",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "32",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "33",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "34",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "35",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "36",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "37",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "38",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "39",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "40",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "41",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "42",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "43",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "44",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "45",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "46",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "47",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "48",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "49",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "50",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "51",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "52",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "53",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "54",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "55",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "56",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "57",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "58",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "59",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "60",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "61",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "62",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "63",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "64",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "65",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "66",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "67",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "68",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "69",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "70",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "71",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "72",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "73",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "74",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "75",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "76",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "77",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "78",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "79",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "80",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "81",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "82",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "83",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "84",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "85",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "86",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "87",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "88",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "89",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "90",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "91",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "92",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "93",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "94",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "95",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "96",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "97",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "98",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "99",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "100",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "101",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "102",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "103",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "104",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "105",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "106",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "107",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "108",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "109",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "110",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "111",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "112",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "113",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "114",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "115",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "116",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "117",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "118",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "119",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "120",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "121",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "122",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "123",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "124",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "125",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "126",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "127",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "128",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "129",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "130",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "131",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "132",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "133",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "134",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "135",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "136",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "137",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "138",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "139",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "140",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "141",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "142",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "143",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "144",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "145",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "146",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "147",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "148",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "149",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "150",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "151",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "152",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "153",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "154",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "155",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "156",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "157",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "158",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "159",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "160",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "161",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "162",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "163",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "164",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "165",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "166",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "167",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "168",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "169",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "170",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "171",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "172",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "173",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "174",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "175",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "176",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "177",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "178",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "179",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "180",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "181",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "182",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "183",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "184",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "185",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "186",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "187",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "188",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "189",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "190",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "191",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "192",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "193",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "194",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "195",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "196",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "197",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "198",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "199",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "200",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "201",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "202",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "203",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "204",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "205",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "206",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "207",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "208",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "209",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "210",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "211",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "212",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "213",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "214",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "215",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "216",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "217",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "218",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "219",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "220",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "221",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "222",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "223",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "224",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "225",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "226",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "227",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "228",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "229",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "230",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "231",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "232",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "233",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "234",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "235",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "236",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "237",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "238",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "239",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "240",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "241",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "242",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "243",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "244",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "245",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "246",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "247",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "248",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "249",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "250",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "251",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "252",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "253",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "254",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "255",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "256",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "257",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "258",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "259",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "260",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "261",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "262",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "263",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "264",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "265",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "266",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "267",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "268",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "269",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "270",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "271",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "272",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "273",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "274",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "275",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "276",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "277",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "278",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "279",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "280",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "281",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "282",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "283",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "284",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "285",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "286",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "287",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "288",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "289",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "290",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "291",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "292",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "293",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "294",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "295",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "296",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "297",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "298",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "299",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "300",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "301",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "302",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "303",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "304",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "305",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "306",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "307",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "308",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "309",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "310",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "311",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "312",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "313",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "314",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "315",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "316",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "317",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "318",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "319",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "320",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "321",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "322",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "323",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "324",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "325",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "326",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "327",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "328",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "329",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "330",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "331",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "332",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "333",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "334",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "335",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "336",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "337",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "338",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "339",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "340",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "341",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "342",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "343",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "344",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "345",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "346",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "347",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "348",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "349",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "350",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "351",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "352",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "353",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "354",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "355",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "356",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "357",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "358",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "359",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "360",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "361",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "362",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "363",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "364",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "365",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "366",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "367",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "368",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "369",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "370",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "371",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "372",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "373",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "374",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "375",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "376",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "377",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "378",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "379",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "380",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "381",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "382",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "383",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "384",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "385",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "386",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "387",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "388",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "389",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "390",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "391",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "392",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "393",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "394",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "395",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "396",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "397",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "398",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "399",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "400",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "401",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "402",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "403",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "404",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "405",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "406",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "407",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "408",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "409",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "410",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "411",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "412",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "413",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "414",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "415",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "416",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "417",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "418",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "419",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "420",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "421",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "422",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "423",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "424",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "425",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "426",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "427",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "428",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "429",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "430",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "431",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "432",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "433",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "434",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "435",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "436",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "437",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "438",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "439",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "440",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "441",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "442",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "443",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "444",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "445",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "446",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "447",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "448",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "449",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "450",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "451",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "452",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "453",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "454",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "455",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "456",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "457",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "458",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "459",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "460",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "461",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "462",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "463",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "464",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "465",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "466",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "467",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "468",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "469",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "470",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "471",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "472",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "473",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "474",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "475",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "476",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "477",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "478",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "479",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "480",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "481",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "482",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "483",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "484",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "485",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "486",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "487",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "488",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "489",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "490",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "491",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "492",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "493",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "494",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "495",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "496",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "497",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "498",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "499",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "500",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "501",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "502",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "503",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "504",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "505",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "506",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "507",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "508",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "509",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "510",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "511",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "512",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "513",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "514",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "515",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "516",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "517",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "518",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "519",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "520",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "521",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "522",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "523",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "524",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "525",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "526",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "527",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "528",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "529",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "530",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "531",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "532",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "533",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "534",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "535",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "536",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "537",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "538",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "539",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "540",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "541",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "542",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "543",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "544",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "545",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "546",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "547",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "548",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "549",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "550",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "551",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "552",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "553",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "554",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "555",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "556",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "557",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "558",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "559",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "560",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "561",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "562",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "563",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "564",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "565",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "566",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "567",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "568",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "569",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "570",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "571",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "572",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "573",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "574",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "575",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "576",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "577",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "578",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "579",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "580",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "581",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "582",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "583",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "584",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "585",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "586",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "587",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "588",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "589",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "590",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "591",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "592",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "593",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "594",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "595",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "596",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "597",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "598",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "599",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "600",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "601",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "602",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "603",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "604",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "605",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "606",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "607",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "608",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "609",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "610",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "611",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "612",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "613",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "614",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "615",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "616",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "617",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "618",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "619",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "620",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "621",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "622",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "623",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "624",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "625",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "626",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "627",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "628",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "629",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "630",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "631",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "632",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "633",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "634",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "635",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "636",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "637",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "638",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "639",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "640",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "641",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "642",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "643",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "644",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "645",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "646",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "647",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "648",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "649",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "650",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "651",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "652",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "653",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "654",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "655",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "656",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "657",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "658",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "659",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "660",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "661",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "662",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "663",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "664",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "665",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "666",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "667",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "668",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "669",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "670",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "671",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "672",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "673",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "674",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "675",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "676",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "677",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "678",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "679",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "680",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "681",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "682",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "683",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "684",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "685",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "686",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "687",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "688",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "689",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "690",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "691",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "692",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "693",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "694",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "695",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "696",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "697",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "698",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "699",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "700",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "701",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "702",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "703",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "704",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "705",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "706",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "707",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "708",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "709",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "710",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "711",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "712",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "713",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "714",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "715",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "716",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "717",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "718",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "719",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "720",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "721",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "722",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "723",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "724",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "725",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "726",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "727",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "728",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "729",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "730",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "731",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "732",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "733",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "734",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "735",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "736",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "737",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "738",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "739",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "740",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "741",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "742",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "743",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "744",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "745",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "746",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "747",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "748",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "749",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "750",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "751",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "752",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "753",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "754",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "755",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "756",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "757",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "758",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "759",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "760",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "761",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "762",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "763",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "764",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "765",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "766",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "767",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "768",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "769",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "770",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "771",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "772",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "773",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "774",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "775",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "776",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "777",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "778",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "779",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "780",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "781",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "782",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "783",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "784",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "785",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "786",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "787",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "788",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "789",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "790",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "791",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "792",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "793",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "794",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "795",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "796",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "797",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "798",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "799",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "800",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "801",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "802",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "803",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "804",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "805",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "806",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "807",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "808",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "809",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "810",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "811",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "812",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "813",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "814",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "815",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "816",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "817",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "818",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "819",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "820",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "821",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "822",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "823",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "824",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "825",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "826",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "827",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "828",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "829",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "830",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "831",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "832",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "833",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "834",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "835",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "836",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "837",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "838",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "839",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "840",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "841",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "842",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "843",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "844",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "845",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "846",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "847",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "848",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "849",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "850",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "851",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "852",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "853",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "854",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "855",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "856",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "857",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "858",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "859",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "860",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "861",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "862",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "863",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "864",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "865",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "866",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "867",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "868",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "869",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "870",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "871",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "872",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "873",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "874",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "875",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "876",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "877",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "878",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "879",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "880",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "881",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "882",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "883",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "884",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "885",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "886",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "887",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "888",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "889",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "890",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "891",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "892",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "893",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "894",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "895",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "896",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "897",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "898",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "899",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "900",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "901",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "902",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "903",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "904",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "905",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "906",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "907",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "908",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "909",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "910",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "911",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "912",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "913",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "914",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "915",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "916",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "917",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "918",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "919",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "920",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "921",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "922",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "923",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "924",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "925",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "926",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "927",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "928",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "929",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "930",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "931",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "932",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "933",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "934",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "935",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "936",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "937",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "938",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "939",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "940",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "941",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "942",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "943",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "944",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "945",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "946",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "947",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "948",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "949",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "950",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "951",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "952",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "953",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "954",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "955",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "956",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "957",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "958",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "959",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "960",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "961",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "962",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "963",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "964",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "965",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "966",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "967",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "968",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "969",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "970",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "971",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "972",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "973",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "974",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "975",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "976",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "977",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "978",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "979",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "980",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "981",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "982",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "983",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "984",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "985",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "986",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "987",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "988",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "989",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "990",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "991",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "992",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "993",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "994",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "995",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "996",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "997",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "998",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "999",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1000",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1001",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1002",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1003",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1004",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1005",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1006",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1007",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1008",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1009",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1010",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1011",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1012",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1013",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1014",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1015",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1016",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1017",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1018",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1019",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1020",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1021",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1022",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1023",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1024",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1025",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1026",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1027",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1028",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1029",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1030",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1031",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1032",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1033",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1034",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1035",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1036",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1037",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1038",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1039",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1040",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1041",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1042",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1043",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1044",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1045",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1046",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1047",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1048",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1049",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1050",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1051",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1052",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1053",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1054",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1055",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1056",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1057",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1058",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1059",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1060",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1061",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1062",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1063",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1064",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1065",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1066",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1067",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1068",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1069",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1070",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1071",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1072",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1073",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1074",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1075",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1076",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1077",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1078",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1079",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1080",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1081",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1082",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1083",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1084",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1085",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1086",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1087",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1088",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1089",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1090",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1091",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1092",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1093",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1094",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1095",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1096",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1097",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1098",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1099",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1100",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1101",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1102",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1103",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1104",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1105",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1106",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1107",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1108",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1109",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1110",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1111",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1112",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1113",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1114",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1115",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1116",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1117",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1118",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1119",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1120",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1121",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1122",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1123",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1124",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1125",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1126",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1127",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1128",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1129",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1130",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1131",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1132",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1133",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1134",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1135",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1136",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1137",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1138",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1139",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1140",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1141",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1142",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1143",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1144",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1145",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1146",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1147",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1148",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1149",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1150",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1151",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1152",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1153",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1154",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1155",
+        "HateSpeechStrength": "2"
+    },
+    {
+        "rowID": "1156",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1157",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1158",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1159",
+        "HateSpeechStrength": "1"
+    },
+    {
+        "rowID": "1160",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1161",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1162",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1163",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1164",
+        "HateSpeechStrength": "4"
+    },
+    {
+        "rowID": "1165",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1166",
+        "HateSpeechStrength": "3"
+    },
+    {
+        "rowID": "1167",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1168",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1169",
+        "HateSpeechStrength": "0"
+    },
+    {
+        "rowID": "1170",
+        "HateSpeechStrength": "4"
+    }
+]

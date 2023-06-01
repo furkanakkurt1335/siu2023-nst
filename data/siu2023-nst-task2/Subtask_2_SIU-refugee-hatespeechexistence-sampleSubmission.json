@@ -1,0 +1,4686 @@
+[
+    {
+        "rowID": "0",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "2",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "3",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "4",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "5",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "6",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "7",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "8",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "9",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "10",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "11",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "12",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "13",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "14",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "15",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "16",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "17",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "18",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "19",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "20",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "21",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "22",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "23",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "24",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "25",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "26",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "27",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "28",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "29",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "30",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "31",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "32",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "33",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "34",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "35",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "36",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "37",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "38",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "39",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "40",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "41",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "42",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "43",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "44",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "45",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "46",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "47",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "48",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "49",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "50",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "51",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "52",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "53",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "54",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "55",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "56",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "57",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "58",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "59",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "60",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "61",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "62",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "63",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "64",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "65",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "66",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "67",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "68",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "69",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "70",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "71",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "72",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "73",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "74",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "75",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "76",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "77",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "78",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "79",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "80",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "81",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "82",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "83",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "84",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "85",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "86",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "87",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "88",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "89",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "90",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "91",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "92",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "93",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "94",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "95",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "96",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "97",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "98",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "99",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "100",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "101",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "102",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "103",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "104",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "105",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "106",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "107",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "108",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "109",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "110",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "111",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "112",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "113",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "114",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "115",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "116",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "117",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "118",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "119",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "120",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "121",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "122",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "123",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "124",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "125",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "126",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "127",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "128",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "129",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "130",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "131",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "132",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "133",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "134",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "135",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "136",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "137",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "138",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "139",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "140",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "141",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "142",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "143",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "144",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "145",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "146",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "147",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "148",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "149",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "150",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "151",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "152",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "153",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "154",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "155",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "156",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "157",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "158",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "159",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "160",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "161",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "162",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "163",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "164",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "165",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "166",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "167",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "168",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "169",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "170",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "171",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "172",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "173",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "174",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "175",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "176",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "177",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "178",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "179",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "180",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "181",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "182",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "183",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "184",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "185",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "186",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "187",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "188",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "189",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "190",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "191",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "192",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "193",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "194",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "195",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "196",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "197",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "198",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "199",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "200",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "201",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "202",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "203",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "204",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "205",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "206",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "207",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "208",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "209",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "210",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "211",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "212",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "213",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "214",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "215",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "216",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "217",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "218",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "219",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "220",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "221",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "222",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "223",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "224",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "225",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "226",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "227",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "228",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "229",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "230",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "231",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "232",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "233",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "234",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "235",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "236",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "237",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "238",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "239",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "240",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "241",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "242",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "243",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "244",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "245",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "246",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "247",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "248",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "249",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "250",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "251",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "252",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "253",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "254",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "255",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "256",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "257",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "258",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "259",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "260",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "261",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "262",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "263",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "264",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "265",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "266",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "267",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "268",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "269",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "270",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "271",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "272",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "273",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "274",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "275",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "276",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "277",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "278",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "279",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "280",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "281",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "282",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "283",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "284",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "285",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "286",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "287",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "288",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "289",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "290",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "291",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "292",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "293",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "294",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "295",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "296",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "297",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "298",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "299",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "300",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "301",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "302",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "303",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "304",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "305",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "306",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "307",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "308",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "309",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "310",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "311",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "312",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "313",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "314",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "315",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "316",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "317",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "318",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "319",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "320",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "321",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "322",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "323",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "324",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "325",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "326",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "327",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "328",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "329",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "330",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "331",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "332",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "333",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "334",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "335",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "336",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "337",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "338",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "339",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "340",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "341",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "342",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "343",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "344",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "345",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "346",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "347",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "348",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "349",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "350",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "351",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "352",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "353",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "354",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "355",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "356",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "357",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "358",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "359",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "360",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "361",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "362",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "363",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "364",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "365",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "366",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "367",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "368",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "369",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "370",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "371",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "372",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "373",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "374",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "375",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "376",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "377",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "378",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "379",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "380",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "381",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "382",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "383",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "384",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "385",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "386",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "387",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "388",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "389",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "390",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "391",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "392",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "393",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "394",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "395",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "396",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "397",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "398",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "399",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "400",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "401",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "402",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "403",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "404",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "405",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "406",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "407",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "408",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "409",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "410",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "411",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "412",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "413",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "414",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "415",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "416",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "417",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "418",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "419",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "420",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "421",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "422",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "423",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "424",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "425",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "426",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "427",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "428",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "429",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "430",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "431",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "432",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "433",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "434",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "435",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "436",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "437",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "438",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "439",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "440",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "441",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "442",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "443",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "444",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "445",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "446",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "447",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "448",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "449",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "450",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "451",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "452",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "453",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "454",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "455",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "456",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "457",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "458",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "459",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "460",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "461",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "462",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "463",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "464",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "465",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "466",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "467",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "468",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "469",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "470",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "471",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "472",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "473",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "474",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "475",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "476",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "477",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "478",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "479",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "480",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "481",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "482",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "483",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "484",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "485",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "486",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "487",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "488",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "489",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "490",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "491",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "492",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "493",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "494",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "495",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "496",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "497",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "498",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "499",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "500",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "501",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "502",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "503",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "504",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "505",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "506",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "507",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "508",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "509",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "510",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "511",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "512",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "513",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "514",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "515",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "516",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "517",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "518",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "519",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "520",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "521",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "522",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "523",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "524",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "525",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "526",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "527",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "528",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "529",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "530",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "531",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "532",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "533",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "534",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "535",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "536",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "537",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "538",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "539",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "540",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "541",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "542",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "543",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "544",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "545",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "546",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "547",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "548",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "549",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "550",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "551",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "552",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "553",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "554",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "555",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "556",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "557",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "558",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "559",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "560",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "561",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "562",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "563",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "564",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "565",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "566",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "567",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "568",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "569",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "570",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "571",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "572",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "573",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "574",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "575",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "576",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "577",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "578",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "579",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "580",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "581",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "582",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "583",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "584",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "585",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "586",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "587",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "588",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "589",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "590",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "591",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "592",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "593",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "594",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "595",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "596",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "597",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "598",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "599",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "600",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "601",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "602",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "603",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "604",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "605",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "606",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "607",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "608",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "609",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "610",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "611",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "612",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "613",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "614",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "615",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "616",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "617",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "618",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "619",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "620",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "621",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "622",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "623",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "624",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "625",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "626",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "627",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "628",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "629",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "630",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "631",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "632",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "633",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "634",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "635",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "636",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "637",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "638",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "639",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "640",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "641",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "642",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "643",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "644",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "645",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "646",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "647",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "648",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "649",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "650",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "651",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "652",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "653",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "654",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "655",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "656",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "657",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "658",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "659",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "660",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "661",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "662",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "663",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "664",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "665",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "666",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "667",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "668",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "669",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "670",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "671",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "672",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "673",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "674",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "675",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "676",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "677",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "678",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "679",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "680",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "681",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "682",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "683",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "684",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "685",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "686",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "687",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "688",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "689",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "690",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "691",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "692",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "693",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "694",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "695",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "696",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "697",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "698",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "699",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "700",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "701",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "702",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "703",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "704",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "705",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "706",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "707",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "708",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "709",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "710",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "711",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "712",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "713",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "714",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "715",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "716",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "717",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "718",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "719",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "720",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "721",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "722",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "723",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "724",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "725",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "726",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "727",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "728",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "729",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "730",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "731",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "732",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "733",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "734",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "735",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "736",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "737",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "738",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "739",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "740",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "741",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "742",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "743",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "744",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "745",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "746",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "747",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "748",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "749",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "750",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "751",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "752",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "753",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "754",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "755",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "756",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "757",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "758",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "759",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "760",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "761",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "762",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "763",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "764",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "765",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "766",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "767",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "768",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "769",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "770",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "771",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "772",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "773",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "774",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "775",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "776",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "777",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "778",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "779",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "780",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "781",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "782",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "783",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "784",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "785",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "786",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "787",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "788",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "789",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "790",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "791",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "792",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "793",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "794",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "795",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "796",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "797",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "798",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "799",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "800",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "801",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "802",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "803",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "804",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "805",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "806",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "807",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "808",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "809",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "810",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "811",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "812",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "813",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "814",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "815",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "816",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "817",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "818",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "819",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "820",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "821",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "822",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "823",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "824",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "825",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "826",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "827",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "828",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "829",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "830",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "831",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "832",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "833",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "834",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "835",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "836",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "837",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "838",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "839",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "840",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "841",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "842",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "843",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "844",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "845",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "846",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "847",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "848",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "849",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "850",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "851",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "852",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "853",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "854",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "855",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "856",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "857",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "858",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "859",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "860",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "861",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "862",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "863",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "864",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "865",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "866",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "867",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "868",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "869",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "870",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "871",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "872",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "873",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "874",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "875",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "876",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "877",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "878",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "879",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "880",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "881",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "882",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "883",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "884",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "885",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "886",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "887",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "888",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "889",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "890",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "891",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "892",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "893",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "894",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "895",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "896",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "897",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "898",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "899",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "900",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "901",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "902",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "903",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "904",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "905",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "906",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "907",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "908",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "909",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "910",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "911",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "912",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "913",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "914",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "915",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "916",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "917",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "918",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "919",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "920",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "921",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "922",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "923",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "924",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "925",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "926",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "927",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "928",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "929",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "930",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "931",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "932",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "933",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "934",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "935",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "936",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "937",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "938",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "939",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "940",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "941",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "942",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "943",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "944",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "945",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "946",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "947",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "948",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "949",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "950",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "951",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "952",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "953",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "954",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "955",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "956",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "957",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "958",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "959",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "960",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "961",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "962",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "963",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "964",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "965",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "966",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "967",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "968",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "969",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "970",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "971",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "972",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "973",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "974",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "975",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "976",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "977",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "978",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "979",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "980",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "981",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "982",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "983",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "984",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "985",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "986",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "987",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "988",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "989",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "990",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "991",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "992",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "993",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "994",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "995",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "996",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "997",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "998",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "999",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1000",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1001",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1002",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1003",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1004",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1005",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1006",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1007",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1008",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1009",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1010",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1011",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1012",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1013",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1014",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1015",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1016",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1017",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1018",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1019",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1020",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1021",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1022",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1023",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1024",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1025",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1026",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1027",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1028",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1029",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1030",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1031",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1032",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1033",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1034",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1035",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1036",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1037",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1038",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1039",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1040",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1041",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1042",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1043",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1044",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1045",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1046",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1047",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1048",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1049",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1050",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1051",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1052",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1053",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1054",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1055",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1056",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1057",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1058",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1059",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1060",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1061",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1062",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1063",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1064",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1065",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1066",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1067",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1068",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1069",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1070",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1071",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1072",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1073",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1074",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1075",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1076",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1077",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1078",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1079",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1080",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1081",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1082",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1083",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1084",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1085",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1086",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1087",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1088",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1089",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1090",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1091",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1092",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1093",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1094",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1095",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1096",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1097",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1098",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1099",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1100",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1101",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1102",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1103",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1104",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1105",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1106",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1107",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1108",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1109",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1110",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1111",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1112",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1113",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1114",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1115",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1116",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1117",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1118",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1119",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1120",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1121",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1122",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1123",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1124",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1125",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1126",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1127",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1128",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1129",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1130",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1131",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1132",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1133",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1134",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1135",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1136",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1137",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1138",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1139",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1140",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1141",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1142",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1143",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1144",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1145",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1146",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1147",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1148",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1149",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1150",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1151",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1152",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1153",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1154",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1155",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1156",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1157",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1158",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1159",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1160",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1161",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1162",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1163",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1164",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1165",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1166",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1167",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1168",
+        "HateSpeechExistence": "1"
+    },
+    {
+        "rowID": "1169",
+        "HateSpeechExistence": "0"
+    },
+    {
+        "rowID": "1170",
+        "HateSpeechExistence": "1"
+    }
+]
