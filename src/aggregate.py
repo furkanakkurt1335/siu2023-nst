@@ -1,5 +1,19 @@
 import os, json, re, argparse, string
 
+THIS_DIR = os.path.dirname(os.path.abspath(__file__))
+data_path = os.path.join(THIS_DIR, '..', 'data')
+path = os.path.join(data_path, 'raw')
+files = [i for i in os.listdir(path) if i.endswith('.json')]
+output_path = os.path.join(data_path, 'data.json')
+stopword_path = os.path.join(data_path, 'turkish-stopwords.json')
+with open(stopword_path, encoding='utf-8') as f:
+    stopwords = json.load(f)
+stopword_l = []
+for word in stopwords:
+    word = word.replace('ı', 'i').replace('İ', 'I').replace('I', 'i').replace('ö', 'o').replace('Ö', 'O').replace('ü', 'u').replace('Ü', 'U').replace('ş', 's').replace('Ş', 'S').replace('ç', 'c').replace('Ç', 'C').replace('ğ', 'g').replace('Ğ', 'G').replace('â', 'a').replace('Â', 'A').replace('î', 'i').replace('Î', 'I').replace('û', 'u').replace('Û', 'U')
+    word = word.lower()
+    stopword_l.append(word)
+
 parser = argparse.ArgumentParser()
 parser.add_argument('-a', '--asciify', type=str, default='True', help='Whether to asciify the text or not')
 args = parser.parse_args()
@@ -26,20 +40,17 @@ def clean_text(text):
 
     for punc in string.punctuation:
         text = text.replace(punc, ' ')
-    punc_l = ['…', '“', '']
+    punc_l = ['…', '“', '”']
     for punc in punc_l:
         text = text.replace(punc, '')
+    for stopword in stopword_l:
+        pattern = f' {stopword} '
+        text = re.sub(pattern, ' ', text)
     text = text.replace('\n', ' ').replace('\t', ' ').replace('\r', ' ')
-    while '  ' in text:
-        text = text.replace('  ', ' ')
+    while ' ' in text:
+        text = text.replace(' ', '')
     text = text.strip()
     return text
-
-THIS_DIR = os.path.dirname(os.path.abspath(__file__))
-data_path = os.path.join(THIS_DIR, '..', 'data')
-path = os.path.join(data_path, 'raw')
-files = [i for i in os.listdir(path) if i.endswith('.json')]
-output_path = os.path.join(data_path, 'data.json')
 
 data_l = []
 for file in files:

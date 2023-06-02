@@ -77,11 +77,11 @@ print('Train labels length: {}'.format(len(y)))
 if test:
     print('Test data length: {}'.format(len(test_corpus)))
 
-max_features = 2000
+max_features = 10000
 print('Max features: {}'.format(max_features))
-vectorizer1 = TfidfVectorizer(analyzer='char', ngram_range=(5, 5))
-vectorizer2 = TfidfVectorizer()
-vectorizer3 = TfidfVectorizer(analyzer='char', ngram_range=(7, 7))
+vectorizer1 = TfidfVectorizer(max_features=max_features, ngram_range=(1, 3), analyzer='word')
+vectorizer2 = TfidfVectorizer(max_features=max_features, ngram_range=(1, 3), analyzer='char')
+vectorizer3 = CountVectorizer(max_features=max_features, ngram_range=(1, 3), analyzer='char')
 
 X_train = vectorizer1.fit_transform(corpus)
 X_t = vectorizer2.fit_transform(corpus)
@@ -94,6 +94,7 @@ add_len = False
 if add_len:
     length = np.array([len(el) for el in corpus]).reshape(-1, 1)
     X_train = np.concatenate((X_train, length), axis=1)
+print('Len added: {}'.format(add_len))
 
 if test:
     X_test = vectorizer1.transform(test_corpus)
@@ -113,25 +114,21 @@ else:
 
 scale = False
 if scale:
-    from sklearn.preprocessing import StandardScaler
-    scaler = StandardScaler()
+    from sklearn.preprocessing import StandardScaler, MinMaxScaler
+    # scaler = StandardScaler()
+    scaler = MinMaxScaler()
     X_train = scaler.fit_transform(X_train)
     if test:
         X_test = scaler.transform(X_test)
-
-max_iter = 100
-print('Max iter: {}'.format(max_iter))
-# clf1 = SVC(random_state=0)
-# clf2 = LogisticRegression(random_state=0, max_iter=max_iter)
-# clf = VotingClassifier(estimators=[('svc', clf1), ('lr', clf2)])
-
-# sklearn.ensemble.GradientBoostingClassifier
-from sklearn.ensemble import GradientBoostingClassifier
-clf = GradientBoostingClassifier(random_state=0)
-# clf = LogisticRegression(random_state=0, max_iter=max_iter)
 print('Scaled: {}'.format(scale))
-print('Len added: {}'.format(add_len))
+
+max_iter = 1000
+print('Max iter: {}'.format(max_iter))
+
+clf = LogisticRegression(max_iter=max_iter, random_state=42)
+
 print('Training with {} classifier'.format(clf))
+
 clf.fit(X_train, y_train)
 
 train_score = clf.score(X_train, y_train)
