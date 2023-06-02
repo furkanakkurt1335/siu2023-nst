@@ -1,2 +1,7 @@
 tweepy
 pandas
+transformers
+evaluate
+datasets
+torch
+accelerate

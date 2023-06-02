@@ -1,15 +1,15 @@
 import os, json, re, argparse, string
 
-# parser = argparse.ArgumentParser()
-# parser.add_argument('-a', '--asciify', type=str, default='True', help='Whether to asciify the text or not')
-# args = parser.parse_args()
+parser = argparse.ArgumentParser()
+parser.add_argument('-a', '--asciify', type=str, default='True', help='Whether to asciify the text or not')
+args = parser.parse_args()
 
-# asciify = args.asciify
-# if asciify == 'True':
-#     asciify = True
-# elif asciify == 'False':
-#     asciify = False
-# print(f'asciify: {asciify}')
+asciify = args.asciify
+if asciify == 'True':
+    asciify = True
+elif asciify == 'False':
+    asciify = False
+print(f'asciify: {asciify}')
 
 url_pattern = 'https?:\/\/(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}(?:[-a-zA-Z0-9()@:%_\+.~#?&\/=]*)' # taken from https://uibakery.io/regex-library/url
 twitter_user_pattern = '@?@[a-zA-Z0-9_]{1,15}'
@@ -20,12 +20,15 @@ def clean_text(text):
     text = re.sub(twitter_user_pattern, '', text) # remove twitter users
     text = re.sub(number_pattern, '', text) # remove numbers
 
-    # if asciify:
-    #     text = text.replace('ı', 'i').replace('İ', 'I').replace('I', 'i').replace('ö', 'o').replace('Ö', 'O').replace('ü', 'u').replace('Ü', 'U').replace('ş', 's').replace('Ş', 'S').replace('ç', 'c').replace('Ç', 'C').replace('ğ', 'g').replace('Ğ', 'G').replace('â', 'a').replace('Â', 'A').replace('î', 'i').replace('Î', 'I').replace('û', 'u').replace('Û', 'U')
+    if asciify:
+        text = text.replace('ı', 'i').replace('İ', 'I').replace('I', 'i').replace('ö', 'o').replace('Ö', 'O').replace('ü', 'u').replace('Ü', 'U').replace('ş', 's').replace('Ş', 'S').replace('ç', 'c').replace('Ç', 'C').replace('ğ', 'g').replace('Ğ', 'G').replace('â', 'a').replace('Â', 'A').replace('î', 'i').replace('Î', 'I').replace('û', 'u').replace('Û', 'U')
 
     for punc in string.punctuation:
         text = text.replace(punc, ' ')
-    # text = text.lower()
+    punc_l = ['…', '“', '']
+    for punc in punc_l:
+        text = text.replace(punc, '')
+    text = text.lower()
     text = text.replace('\n', ' ').replace('\t', ' ').replace('\r', ' ')
     while '  ' in text:
         text = text.replace('  ', ' ')

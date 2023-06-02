@@ -1,12 +1,17 @@
 import os, argparse, json
-from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.linear_model import LogisticRegression
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
+from sklearn.svm import SVC
+from sklearn.ensemble import RandomForestClassifier, VotingClassifier
+from sklearn.neural_network import MLPClassifier
+from sklearn.naive_bayes import GaussianNB
 
+feature_l = ['existence', 'strength', 'category']
 parser = argparse.ArgumentParser()
-parser.add_argument('-f', '--feature', type=str, default='existence', choices=['existence', 'strength', 'category'], help='Feature to train on')
+parser.add_argument('-f', '--feature', type=str, default='existence', help='Feature to train on')
 parser.add_argument('-t', '--type', type=str, default='all', choices=['all', 'isr-pal', 'refugee', 'tr-gr'], help='Data type to train on')
 parser.add_argument('-s', '--subtask', type=str, help='Subtask to test', choices=['1', '2', '3', '4'])
 args = parser.parse_args()
@@ -22,6 +27,16 @@ if args.subtask is None:
     test = False
     print('No subtask specified')
     feature = args.feature
+    possible_features = []
+    for f in feature_l:
+        if f.startswith(feature):
+            possible_features.append(f)
+    if len(possible_features) == 0:
+        raise ValueError('Feature {} not found'.format(feature))
+    elif len(possible_features) > 1:
+        raise ValueError('Multiple features found: {}'.format(possible_features))
+    else:
+        feature = possible_features[0]
 else:
     test = True
     print(f'Testing on subtask {args.subtask}')
@@ -73,12 +88,21 @@ X_train = np.concatenate((X_train.toarray(), X_t.toarray()), axis=1)
 X_t = vectorizer3.fit_transform(corpus)
 X_train = np.concatenate((X_train, X_t.toarray()), axis=1)
 
+# add length
+add_len = True
+if add_len:
+    length = np.array([len(el) for el in corpus]).reshape(-1, 1)
+    X_train = np.concatenate((X_train, length), axis=1)
+
 if test:
     X_test = vectorizer1.transform(test_corpus)
     X_test_t = vectorizer2.transform(test_corpus)
     X_test = np.concatenate((X_test.toarray(), X_test_t.toarray()), axis=1)
     X_test_t = vectorizer3.transform(test_corpus)
     X_test = np.concatenate((X_test, X_test_t.toarray()), axis=1)
+    if add_len:
+        test_length = np.array([len(el) for el in test_corpus]).reshape(-1, 1)
+        X_test = np.concatenate((X_test, test_length), axis=1)
 
 if not test:
     X_train, X_test, y_train, y_test = train_test_split(X_train, y, test_size=0.2, random_state=42)
@@ -86,7 +110,26 @@ if not test:
 else:
     X_train, y_train = X_train, y
 
-clf = LogisticRegression(random_state=0).fit(X_train, y_train)
+scale = True
+if scale:
+    from sklearn.preprocessing import StandardScaler
+    scaler = StandardScaler()
+    X_train = scaler.fit_transform(X_train)
+    if test:
+        X_test = scaler.transform(X_test)
+
+clf1 = SVC(kernel='rbf', gamma='auto', C=1.0, probability=True, random_state=0)
+clf2 = LogisticRegression(random_state=0, solver='lbfgs', multi_class='multinomial', max_iter=1000)
+clf3 = RandomForestClassifier(n_estimators=100, max_depth=2, random_state=0)
+clf4 = MLPClassifier(solver='lbfgs', alpha=1e-5, hidden_layer_sizes=(5, 2), random_state=1, max_iter=1000)
+clf5 = GaussianNB()
+clf = VotingClassifier(estimators=[('svc', clf1), ('lr', clf2), ('rf', clf3), ('mlp', clf4), ('gnb', clf5)], voting='soft')
+
+# clf = LogisticRegression(random_state=0, solver='lbfgs', multi_class='multinomial', max_iter=1000)
+print('Scaled: {}'.format(scale))
+print('Len added: {}'.format(add_len))
+print('Training with {} classifier'.format(clf))
+clf.fit(X_train, y_train)
 
 train_score = clf.score(X_train, y_train)
 out_d['train_score'] = '{:.4f}'.format(train_score)
