@@ -77,10 +77,11 @@ print('Train labels length: {}'.format(len(y)))
 if test:
     print('Test data length: {}'.format(len(test_corpus)))
 
-max_features = 3000
+max_features = 2000
+print('Max features: {}'.format(max_features))
 vectorizer1 = TfidfVectorizer(analyzer='char', ngram_range=(7, 7), max_features=max_features)
 vectorizer2 = TfidfVectorizer(max_features=max_features)
-vectorizer3 = TfidfVectorizer(analyzer='char', ngram_range=(9, 9), max_features=max_features)
+vectorizer3 = TfidfVectorizer(analyzer='char', ngram_range=(3, 3), max_features=max_features)
 
 X_train = vectorizer1.fit_transform(corpus)
 X_t = vectorizer2.fit_transform(corpus)
@@ -89,7 +90,7 @@ X_t = vectorizer3.fit_transform(corpus)
 X_train = np.concatenate((X_train, X_t.toarray()), axis=1)
 
 # add length
-add_len = True
+add_len = False
 if add_len:
     length = np.array([len(el) for el in corpus]).reshape(-1, 1)
     X_train = np.concatenate((X_train, length), axis=1)
@@ -110,7 +111,7 @@ if not test:
 else:
     X_train, y_train = X_train, y
 
-scale = True
+scale = False
 if scale:
     from sklearn.preprocessing import StandardScaler
     scaler = StandardScaler()
@@ -118,10 +119,12 @@ if scale:
     if test:
         X_test = scaler.transform(X_test)
 
+max_iter = 100
+print('Max iter: {}'.format(max_iter))
 clf1 = SVC(kernel='rbf', gamma='auto', C=1.0, probability=True, random_state=0)
-clf2 = LogisticRegression(random_state=0, solver='lbfgs', multi_class='multinomial', max_iter=1000)
+clf2 = LogisticRegression(random_state=0, solver='lbfgs', multi_class='multinomial')
 clf3 = RandomForestClassifier(n_estimators=100, max_depth=2, random_state=0)
-clf4 = MLPClassifier(solver='lbfgs', alpha=1e-5, hidden_layer_sizes=(5, 2), random_state=1, max_iter=1000)
+clf4 = MLPClassifier(solver='lbfgs', alpha=1e-5, hidden_layer_sizes=(5, 2), random_state=0, max_iter=max_iter)
 clf5 = GaussianNB()
 clf = VotingClassifier(estimators=[('svc', clf1), ('lr', clf2), ('rf', clf3), ('mlp', clf4), ('gnb', clf5)], voting='soft')
 

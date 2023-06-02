@@ -22,13 +22,13 @@ def clean_text(text):
 
     if asciify:
         text = text.replace('ı', 'i').replace('İ', 'I').replace('I', 'i').replace('ö', 'o').replace('Ö', 'O').replace('ü', 'u').replace('Ü', 'U').replace('ş', 's').replace('Ş', 'S').replace('ç', 'c').replace('Ç', 'C').replace('ğ', 'g').replace('Ğ', 'G').replace('â', 'a').replace('Â', 'A').replace('î', 'i').replace('Î', 'I').replace('û', 'u').replace('Û', 'U')
+        text = text.lower()
 
     for punc in string.punctuation:
         text = text.replace(punc, ' ')
     punc_l = ['…', '“', '']
     for punc in punc_l:
         text = text.replace(punc, '')
-    text = text.lower()
     text = text.replace('\n', ' ').replace('\t', ' ').replace('\r', ' ')
     while '  ' in text:
         text = text.replace('  ', ' ')
