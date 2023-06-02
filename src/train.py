@@ -77,11 +77,11 @@ print('Train labels length: {}'.format(len(y)))
 if test:
     print('Test data length: {}'.format(len(test_corpus)))
 
-max_features = 10000
+max_features = 3000
 print('Max features: {}'.format(max_features))
-vectorizer1 = TfidfVectorizer(max_features=max_features, ngram_range=(1, 3), analyzer='word')
-vectorizer2 = TfidfVectorizer(max_features=max_features, ngram_range=(1, 3), analyzer='char')
-vectorizer3 = CountVectorizer(max_features=max_features, ngram_range=(1, 3), analyzer='char')
+vectorizer1 = TfidfVectorizer(max_features=max_features, ngram_range=(3, 3))
+vectorizer2 = TfidfVectorizer(max_features=max_features, ngram_range=(5, 5))
+vectorizer3 = TfidfVectorizer(max_features=max_features, ngram_range=(7, 7))
 
 X_train = vectorizer1.fit_transform(corpus)
 X_t = vectorizer2.fit_transform(corpus)
@@ -122,7 +122,7 @@ if scale:
         X_test = scaler.transform(X_test)
 print('Scaled: {}'.format(scale))
 
-max_iter = 1000
+max_iter = 100
 print('Max iter: {}'.format(max_iter))
 
 clf = LogisticRegression(max_iter=max_iter, random_state=42)
