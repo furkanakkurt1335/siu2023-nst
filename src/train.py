@@ -79,9 +79,9 @@ if test:
 
 max_features = 2000
 print('Max features: {}'.format(max_features))
-vectorizer1 = TfidfVectorizer(analyzer='char', ngram_range=(7, 7), max_features=max_features)
-vectorizer2 = TfidfVectorizer(max_features=max_features)
-vectorizer3 = TfidfVectorizer(analyzer='char', ngram_range=(3, 3), max_features=max_features)
+vectorizer1 = TfidfVectorizer(analyzer='char', ngram_range=(5, 5))
+vectorizer2 = TfidfVectorizer()
+vectorizer3 = TfidfVectorizer(analyzer='char', ngram_range=(7, 7))
 
 X_train = vectorizer1.fit_transform(corpus)
 X_t = vectorizer2.fit_transform(corpus)
@@ -121,14 +121,14 @@ if scale:
 
 max_iter = 100
 print('Max iter: {}'.format(max_iter))
-clf1 = SVC(kernel='rbf', gamma='auto', C=1.0, probability=True, random_state=0)
-clf2 = LogisticRegression(random_state=0, solver='lbfgs', multi_class='multinomial')
-clf3 = RandomForestClassifier(n_estimators=100, max_depth=2, random_state=0)
-clf4 = MLPClassifier(solver='lbfgs', alpha=1e-5, hidden_layer_sizes=(5, 2), random_state=0, max_iter=max_iter)
-clf5 = GaussianNB()
-clf = VotingClassifier(estimators=[('svc', clf1), ('lr', clf2), ('rf', clf3), ('mlp', clf4), ('gnb', clf5)], voting='soft')
+# clf1 = SVC(random_state=0)
+# clf2 = LogisticRegression(random_state=0, max_iter=max_iter)
+# clf = VotingClassifier(estimators=[('svc', clf1), ('lr', clf2)])
 
-# clf = LogisticRegression(random_state=0, solver='lbfgs', multi_class='multinomial', max_iter=1000)
+# sklearn.ensemble.GradientBoostingClassifier
+from sklearn.ensemble import GradientBoostingClassifier
+clf = GradientBoostingClassifier(random_state=0)
+# clf = LogisticRegression(random_state=0, max_iter=max_iter)
 print('Scaled: {}'.format(scale))
 print('Len added: {}'.format(add_len))
 print('Training with {} classifier'.format(clf))
