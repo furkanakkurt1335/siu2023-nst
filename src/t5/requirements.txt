@@ -1,0 +1,10 @@
+datasets
+transformers
+torch
+evaluate
+sentencepiece
+protobuf==3.20.0
+accelerate
+absl-py
+nltk
+rouge_score
